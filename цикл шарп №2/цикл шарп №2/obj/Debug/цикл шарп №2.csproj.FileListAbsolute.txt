@@ -1,0 +1,7 @@
+C:\Users\User\Source\Repos\цикл шарп №2\цикл шарп №2\bin\Debug\цикл шарп №2.exe.config
+C:\Users\User\Source\Repos\цикл шарп №2\цикл шарп №2\bin\Debug\цикл шарп №2.exe
+C:\Users\User\Source\Repos\цикл шарп №2\цикл шарп №2\bin\Debug\цикл шарп №2.pdb
+C:\Users\User\Source\Repos\цикл шарп №2\цикл шарп №2\obj\Debug\цикл шарп №2.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\цикл шарп №2\цикл шарп №2\obj\Debug\цикл шарп №2.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\цикл шарп №2\цикл шарп №2\obj\Debug\цикл шарп №2.exe
+C:\Users\User\Source\Repos\цикл шарп №2\цикл шарп №2\obj\Debug\цикл шарп №2.pdb

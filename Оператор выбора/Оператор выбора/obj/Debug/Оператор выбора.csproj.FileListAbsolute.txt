@@ -1,0 +1,7 @@
+C:\Users\User\Source\Repos\Оператор выбора\Оператор выбора\obj\Debug\Оператор выбора.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Оператор выбора\Оператор выбора\obj\Debug\Оператор выбора.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Оператор выбора\Оператор выбора\bin\Debug\Оператор выбора.exe.config
+C:\Users\User\Source\Repos\Оператор выбора\Оператор выбора\bin\Debug\Оператор выбора.exe
+C:\Users\User\Source\Repos\Оператор выбора\Оператор выбора\bin\Debug\Оператор выбора.pdb
+C:\Users\User\Source\Repos\Оператор выбора\Оператор выбора\obj\Debug\Оператор выбора.exe
+C:\Users\User\Source\Repos\Оператор выбора\Оператор выбора\obj\Debug\Оператор выбора.pdb

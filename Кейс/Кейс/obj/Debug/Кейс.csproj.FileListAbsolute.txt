@@ -1,0 +1,7 @@
+C:\Users\User\Source\Repos\Кейс\Кейс\bin\Debug\Кейс.exe.config
+C:\Users\User\Source\Repos\Кейс\Кейс\bin\Debug\Кейс.exe
+C:\Users\User\Source\Repos\Кейс\Кейс\bin\Debug\Кейс.pdb
+C:\Users\User\Source\Repos\Кейс\Кейс\obj\Debug\Кейс.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Кейс\Кейс\obj\Debug\Кейс.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Кейс\Кейс\obj\Debug\Кейс.exe
+C:\Users\User\Source\Repos\Кейс\Кейс\obj\Debug\Кейс.pdb
